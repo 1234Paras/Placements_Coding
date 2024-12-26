@@ -13,6 +13,7 @@ public class LargestthreenumberIs {
             System.out.println("C is the greatest number");
         }
 
+        //Ternary Operator
         int number = 5;
 
         String type = ((number%2)==0) ? "even" : "odds";
