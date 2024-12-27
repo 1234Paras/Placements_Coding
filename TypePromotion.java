@@ -26,5 +26,11 @@ public class TypePromotion {
         byte a2 = 5;
         a2 = (byte) (a2 * 2);
         System.out.println(a2);
+
+        //Type Conversion Extra Works
+        int a = sc.nextInt();
+        //short c = a; //error, because the short to int conversion is not possible short data type is to small than integer.
+        float b = a; /* Type Conversion */
+        System.out.println(b);
     }
 }
