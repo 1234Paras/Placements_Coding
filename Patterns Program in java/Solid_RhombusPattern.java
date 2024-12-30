@@ -24,3 +24,11 @@ public class Solid_RhombusPattern {
         solid_rhombus(n);
     }
 }
+
+/* Output :
+    *****
+   *****
+  *****
+ *****
+*****
+*/
