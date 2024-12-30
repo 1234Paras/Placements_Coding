@@ -18,3 +18,10 @@ public class HollowRectanglePattern6 {
         HollowRectangle(4,4);
     }
 }
+
+/* Output :
+****
+*  *
+*  *
+****
+*/
