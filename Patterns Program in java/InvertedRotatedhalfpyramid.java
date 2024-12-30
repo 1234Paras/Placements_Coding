@@ -23,3 +23,11 @@ public class InvertedRotatedhalfpyramid {
         Inverted_Rotated_Half_Pyramid(n);
     }
 }
+
+/* Output :
+    *
+   **
+  ***
+ ****
+*****
+*/
