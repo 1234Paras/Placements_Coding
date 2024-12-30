@@ -49,3 +49,16 @@ public class ButterflyPattern {
         Butterfly(n);
     }
 }
+
+/* Output :
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+*/
