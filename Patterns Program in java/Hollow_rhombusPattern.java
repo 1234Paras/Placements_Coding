@@ -29,3 +29,11 @@ public class Hollow_rhombusPattern {
         Hollow_Rhombus(n);
     }
 }
+
+/* Output :
+    *****
+   *   *
+  *   *
+ *   *
+*****
+*/
