@@ -21,3 +21,11 @@ public class BitsTrianglePattern {
         zero_one_Triangle(n);
     }
 }
+
+/* Output :
+1
+01
+101
+0101
+10101
+*/
