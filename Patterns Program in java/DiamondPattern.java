@@ -38,3 +38,16 @@ public class DiamondPattern {
         DiamondPatt(n);
     }
 }
+
+/* Output :
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+*/
