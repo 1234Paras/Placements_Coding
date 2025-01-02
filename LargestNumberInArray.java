@@ -1,4 +1,4 @@
-public class LargestNumber {
+public class LargestNumberInArray {
 
     public static int LargestNo(int numbers[]){
         int largest = Integer.MIN_VALUE;
