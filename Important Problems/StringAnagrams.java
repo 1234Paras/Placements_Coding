@@ -33,3 +33,7 @@ public class StringAnagrams {
         }
     }
 }
+
+/* Output :
+earth and heart are anagrams of each other
+*/
